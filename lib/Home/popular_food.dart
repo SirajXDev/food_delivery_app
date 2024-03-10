@@ -4,7 +4,6 @@ import 'package:flutter_application_1/Controller/popular_product_controller.dart
 import 'package:flutter_application_1/Home/app_constants.dart';
 import 'package:flutter_application_1/Home/colors.dart';
 import 'package:flutter_application_1/Home/main_food_page.dart';
-import 'package:flutter_application_1/widgets/app_column.dart';
 import 'package:flutter_application_1/widgets/app_icon.dart';
 import 'package:flutter_application_1/widgets/big_text.dart';
 import 'package:get/get.dart';

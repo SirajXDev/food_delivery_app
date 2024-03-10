@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/Home/colors.dart';
 import 'package:flutter_application_1/Home/food_page_body.dart';
-import 'package:flutter_application_1/Models/product_model.dart';
 import 'package:flutter_application_1/widgets/big_text.dart';
 import 'package:flutter_application_1/widgets/small_text.dart';
 
